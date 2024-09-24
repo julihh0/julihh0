@@ -1,16 +1,13 @@
-## Hi there 👋
+## Bem vindos ao meu perfil 🖤
 
-<!--
-**julihh0/julihh0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Juliana
 
-Here are some ideas to get you started:
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem do Javascript
+- ultilizo esses espaços para compartilhar os meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+![]()
+![naruto](https://github.com/user-attachments/assets/58f23bd3-f837-45d8-bc84-8cd17a196418)
